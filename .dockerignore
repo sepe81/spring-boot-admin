@@ -1,0 +1,9 @@
+.git
+.gradle
+.sonarlint
+.vscode
+bin
+build
+!build/libs/*.jar
+gradle
+src
